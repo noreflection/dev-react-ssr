@@ -12,4 +12,7 @@ npm run webpack-devserver
 
 #build
 npm run build
+
+#open
+http://localhost:3001
 ```

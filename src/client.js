@@ -1,2 +1,5 @@
-alert(11111);
-console.log(1111111111111);
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from 'components/App.jsx';
+
+ReactDOM.render(<App />, document.getElementById('react-view'));
